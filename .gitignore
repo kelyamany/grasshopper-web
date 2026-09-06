@@ -1,0 +1,8 @@
+node_modules
+.next
+.env.local
+.env*.local
+.DS_Store
+*.tsbuildinfo
+public/rhino3dm.wasm
+public/rhino3dm.min.js
